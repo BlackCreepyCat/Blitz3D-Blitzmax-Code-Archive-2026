@@ -1,10 +1,9 @@
-- The main portal with some blitz ressources!
-
+The main portal with some blitz ressources!
 http://blitz3dfr.free.fr/portal/
 
-- The code archives:
-
+The code archives:
 http://blitz3dfr.free.fr/codearchive/blitzbasic.html
+
 http://blitz3dfr.free.fr/codearchive/blitzmax.html
 
 <img width="1433" height="1075" alt="image" src="https://github.com/user-attachments/assets/538b8069-0b94-483d-bb4f-b2edc77eae30" />
