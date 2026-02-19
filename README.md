@@ -1,4 +1,4 @@
-The main portal with some blitz ressources!
+The main portal with some blitz3d ressources!
 
 http://blitz3dfr.free.fr/portal/
 
