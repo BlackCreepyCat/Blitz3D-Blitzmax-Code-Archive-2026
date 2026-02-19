@@ -1,7 +1,9 @@
 - The main portal with some blitz ressources!
+
 http://blitz3dfr.free.fr/portal/
 
 - The code archives:
+
 http://blitz3dfr.free.fr/codearchive/blitzbasic.html
 http://blitz3dfr.free.fr/codearchive/blitzmax.html
 
