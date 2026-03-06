@@ -4,9 +4,9 @@ https://www.creepycat.fr/portal/
 
 The code archives:
 
-https://www.creepycat.fr/portal/blitzbasic.html
+https://www.creepycat.fr/codearchive/blitzbasic.html
 
-https://www.creepycat.fr/portal/blitzmax.html
+https://www.creepycat.fr/codearchive/blitzmax.html
 
 <img width="1433" height="1075" alt="image" src="https://github.com/user-attachments/assets/538b8069-0b94-483d-bb4f-b2edc77eae30" />
 
