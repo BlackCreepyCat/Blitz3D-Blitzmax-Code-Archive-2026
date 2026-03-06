@@ -1,12 +1,12 @@
 The main portal with some blitz3d ressources!
 
-http://blitz3dfr.free.fr/portal/
+https://www.creepycat.fr/portal/
 
 The code archives:
 
-http://blitz3dfr.free.fr/codearchive/blitzbasic.html
+https://www.creepycat.fr/portal/blitzbasic.html
 
-http://blitz3dfr.free.fr/codearchive/blitzmax.html
+https://www.creepycat.fr/portal/blitzmax.html
 
 <img width="1433" height="1075" alt="image" src="https://github.com/user-attachments/assets/538b8069-0b94-483d-bb4f-b2edc77eae30" />
 
